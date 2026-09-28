@@ -1,0 +1,85 @@
+body {
+background: #9c1f34;
+background: radial-gradient(circle, rgba(156, 31, 52, 1) 11%, rgba(4, 50, 59, 1) 100%);
+text-align: center;
+color: beige;
+}
+
+a{
+
+  text-align: center;
+  font-size: xx-large;
+  display: inline-block; 
+  margin-right: 20px;
+  color: #eee37f ;
+}
+
+.pt-sans-regular-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: x-large;
+  text-align: center;
+}
+
+
+.carter-one-regular {
+  font-family: "Carter One", system-ui;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+  font-size: 400;
+}
+
+h1{
+    font-size: 400%;
+    color: bisque;
+}
+
+h2 {
+    font-size:xx-large;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+.personajes-foto, .personajes-info {
+  box-sizing: border-box;  
+}
+
+.tarjetas-personajes {
+  max-width: 950px;
+ margin-top: 40px;
+ margin-left: auto;  
+ margin-right: auto;     
+  font-size: 0;
+}
+
+.personajes-foto {
+  display: inline-block; 
+  vertical-align: middle;
+  width: 40%;           
+  margin-right: 0;  
+  border: solid black 4px; 
+  padding: 43px;    
+  background-color: #000000;
+}
+
+.personajes-info {
+  display: inline-block; 
+  vertical-align: middle;
+  width: 60%;           
+  font-size: 19px;     
+  border: 4px solid rgb(128, 11, 11);  
+  background-color: #000000;   
+}
+
+#contacto {
+  background-color: #000000;
+  border: #000000;
+}
+
+h3 {
+  font-size: xx-large;}

@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+background: #9c1f34;
+background: radial-gradient(circle, rgba(156, 31, 52, 1) 11%, rgba(4, 50, 59, 1) 100%);
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
+h1 {
+  text-align: center;
+  font-size: 400%;
+  color:#fcf9fa ;
+
+}
+
+h2 {
+ background-color: #ac7373;
+  color: rgb(13, 7, 24);
+  font-size: xx-large;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+    font-size: xx-large;
+   text-align: center;
+    font-size: 200%;
+}
+
+h4{
+    background-color: #d66666;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+}
+
+.pt-sans-regular-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.carter-one-regular {
+  font-family: "Carter One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size:larger;
+  text-align: center;
+}
+
+a{
+
+  text-align: center;
+  font-size: xx-large;
+  display: inline-block; 
+  margin-right: 20px;
+  color: #eee37f;
+
+}
+
+p{
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#yuji {
+  background-color: #ac7373;
+}
+
+#curiosidades {
+  background-color: #ac7373;
+}
+
+#contacto {
+  border: #000000;
+  background-color:  #000000;
+}
+
+#foto-megu-yuji {
+  margin-top: 30px;
+}

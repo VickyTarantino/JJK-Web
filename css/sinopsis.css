@@ -1,0 +1,96 @@
+body {
+background: #DB7F8E ;
+background: linear-gradient(185deg, rgba(219, 127, 142, 1) 11%, rgba(213, 197, 200, 1) 50%, rgba(157, 163, 164, 1) 100%);
+margin: auto;
+text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+  color:#604D53 ;
+
+}
+.carter-one-regular {
+  font-family: "Carter One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+a{
+
+  text-align: center;
+  font-size: xx-large;
+  display: inline-block; 
+  margin-right: 20px;
+  color: #32282b ;
+
+}
+.pt-sans-regular-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: xx-large;
+  text-align: center;
+}
+
+h2 {
+ background-color: #a7c8d3;
+  color: rgb(28, 79, 79);
+  font-size: xx-large;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  margin-top: 60px;
+
+}
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size:larger;
+  text-align: center;
+}
+
+
+p{
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+ ul{
+
+    text-align: center;
+ }   
+
+li {
+  font-size: larger;
+}
+
+ #linea {
+  border: solid rgb(0, 0, 0) 35px;
+ }
+
+ #contacto {
+  background-color: #a7c8d3;
+  border: solid #a7c8d3;
+  
+}
+#sinopsis {
+  background-color: #c47582;
+}
+#produccion {
+  background-color: #b1abac;
+}
+
+.ul-fix {
+    text-align: center;
+    margin: 20px auto;
+    width: fit-content;
+}

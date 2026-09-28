@@ -1,0 +1,83 @@
+body {
+background: #DB7F8E ;
+background: linear-gradient(185deg, rgba(219, 127, 142, 1) 11%, rgba(213, 197, 200, 1) 50%, rgba(157, 163, 164, 1) 100%);
+text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 500%;
+  color:#604D53 ;
+
+}
+
+.carter-one-regular {
+  font-family: "Carter One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+a{
+
+  text-align: center;
+  font-size: xx-large;
+  display: inline-block; 
+  margin-right: 20px;
+  color: #32282b ;
+
+}
+.pt-sans-regular-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: xx-large;
+}
+
+h2 {
+ background-color: #a7c8d3;
+  color: rgb(28, 79, 79);
+  font-size: xx-large;
+}
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size:larger;
+}
+
+p{
+  
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+#mas{
+  background-color: #a7c8d3;
+  color: rgb(28, 79, 79);
+  font-size: xx-large;
+  text-align: center;
+}
+.raya {
+  border: solid rgb(187, 138, 192);
+   border-top: 2px solid #27a7ac
+}
+
+#contacto {
+  background-color: #a7c8d3;
+  border: #a7c8d3;
+  
+}
+    
+h3 {
+ background-color: #a7c8d3;
+  color: rgb(28, 79, 79);
+  font-size: xx-large;
+  text-align: center;
+}
+
+#foto {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
